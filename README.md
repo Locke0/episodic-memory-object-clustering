@@ -1,8 +1,10 @@
-# Video Entity Clustering Project
+# Episodic Memory Object Clustering Project
 
 ## Overview
 
 This repository contains code and resources for a project aimed at clustering distinct entities in egocentric videos ("episodic memory"). The primary goal is to develop a system that can analyze video content and identify separate entities or objects, allowing for meaningful clustering and classification.
+
+For details on episodic memory, refer to this [page](https://ego4d-data.org/docs/benchmarks/episodic-memory/).
 
 ## Features
 
